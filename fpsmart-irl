@@ -1,0 +1,15 @@
+---
+layout: full-width
+permalink: /gaw/fpsmart-irl/
+slug: Signup
+title: Learn to Read in 30 days for FREE!
+meta_keywords: learn to read,learn,read,learning,reading,abc,parent,teacher,interactive,kid,kids,play,playful,game,games,activity,activities,fun,online
+meta_description: Reading Eggs is the multi-award winning reading programme for ages 2 to 13. Get started with 30 days' FREE access today!
+customheader: header-bts18
+noindex: true
+signup-code: ADW2603UK
+signup-type: fwc
+signup-offer: combined-monthly
+---
+
+{% include components/landing_pages/30days-longscroll.html %}
